@@ -1,0 +1,10 @@
+---
+title: "Gapminder Dataset"
+---
+
+# Introduction
+
+This is a website for a QTM 350 class about the Gapminder dataset, This dataset contains for each of the 142 countries, the package provides values for life expectancy, GDP per capita, and population, every five years, from 1952 to 2007.
+
+## Subsection
+[Link](https://cran.r-project.org/web/packages/gapminder/index.html).
